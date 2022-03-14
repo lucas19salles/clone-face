@@ -140,8 +140,8 @@ button:hover {
   }
 
   .formulario {
-    margin-left: 20px;
     width: 360px;
+    margin-left: 60px;
   }
 
   input {
