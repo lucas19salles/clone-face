@@ -126,7 +126,7 @@ button:hover {
 
   .conteudo {
     text-align: center;
-    padding-left: 40px;
+    padding-left: 20px;
   }
 
   .conteudo h1 {
@@ -134,12 +134,21 @@ button:hover {
   }
 
   .conteudo p {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     max-width: 400px;
     text-align: center;
   }
 
   .formulario {
-    margin-left: 40px;
+    margin-left: 20px;
+    width: 360px;
+  }
+
+  input {
+    width: 320px;
+  }
+
+  button {
+    width: 340px;
   }
 }
