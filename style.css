@@ -126,12 +126,13 @@ button:hover {
 
   .conteudo {
     padding-left: 10px;
+    margin-top: -40px;
   }
 
   .conteudo h1 {
     font-size: 1.8rem;
-    margin-top: 40px;
     padding-left: 100px;
+    margin-top: 5px;
   }
 
   .conteudo p {
@@ -143,9 +144,10 @@ button:hover {
 
   .formulario {
     width: 280px;
-    height: 320px;
+    height: 310px;
     margin-left: 40px;
-    margin-top: -60px;
+    align-self: flex-start;
+    margin-top: -80px;
   }
 
   .senha {
